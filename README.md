@@ -10,11 +10,11 @@
 * 💻 I'm also familiar with
   * Docker
 * 🧾 I'm certified in:
-  * Supervised Machine Learning (Regression and Classification) from DeepLearning.ai
+  * Machine Learning Specialization from DeepLearning.ai
   * AWS Certified Solutions Architect - Associate from AWS
   * AI200 Applied Machine Learning from Heicoders Academy (Professional)
   * Certified Foundations Associate (Java) from Oracle
-* 🌱 I’m currently studying Advanced Learning Algorithms and Unsupervised Learning, Recommenders, Reinforcement Learning from DeepLearning.ai's Machine Learning Specialization course.
+* 🌱 I’m currently learning about using Langchain to develop RAG applications
 * 💞️ I’m looking to collaborate on interesting projects relating to environment sustainability.
 
 Check out my school projects pinned on Github: 👇🏻

@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zhi Wei
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Zhi Wei
 ===============================================================================================================================
 
 Web and RAG Developer
@@ -94,8 +94,4 @@ Software development, retrieval augmented generation, and machine learning
   </a>
 </p>
 
-### Badges
-<a href="https://github.com/zhiweit" align="left"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiweit&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages" /></a>
     

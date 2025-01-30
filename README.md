@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Zhi Wei
+Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Zhi Wei
 ===============================================================================================================================
 
 Web and RAG Developer
 ---------------------
 
-Software development, retrieval augmented generation, and machine learning
+Software development, retrieval augmented generation, and deep learning.
 
 *   🖥️  More about me [here](https://zhiweit.dev/)
-*   🧠  I'm learning Pytorch and NLP to develop question answering chatbot.
-*   🤝  I'm open to collaborating on projects related to environment sustainability
+*   🧠  I'm learning about agent architectures (mixture of experts) and exploring open source LLM projects.
+*   🤝  I'm open to collaborating on projects related to environment sustainability, agentic RAG.
 
 ### Skills 
 <p align="left">

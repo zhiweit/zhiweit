@@ -7,8 +7,8 @@ Web and RAG Developer
 Software development, retrieval augmented generation, and deep learning.
 
 *   🖥️  More about me [here](https://zhiweit.dev/)
-*   🧠  I'm learning about agent architectures (mixture of experts) and exploring open source LLM projects.
-*   🤝  I'm open to collaborating on projects related to environment sustainability, agentic RAG.
+*   🧠  I'm currently learning about django, golang and GANs
+*   🤝  I'm open to collaborating on projects for betterment of society e.g. environment sustainability, chatbots
 
 ### Skills 
 <p align="left">

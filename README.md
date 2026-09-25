@@ -3,4 +3,4 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 Software engineering, deep learning (NLP and CV).
 *   🖥️  More about me [here](https://zhiweit.notion.site/about-me)
-*   🧠  I'm currently learning about running inference on video search and performing inference on nvidia jetson agx orin on VLMs
+*   🧠  I'm currently working on computer vision and GenAI projects with object detection models, pose models, VLMs for security use cases
